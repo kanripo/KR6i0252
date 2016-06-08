@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:04.918216
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:04
 #+TITLE: 菩薩訶色欲法經
 #+PROPERTY: CBETA_ID T15n0615
 #+PROPERTY: ID KR6i0252
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 615
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0252_T_000-0286a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0252_T_001-0286a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.615¶
-
- 《菩薩訶色欲法經》¶
+No. 615¶
+《菩薩訶色欲法經》¶
 ¶
 後秦三藏鳩摩羅什譯¶
 
